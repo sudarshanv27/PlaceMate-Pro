@@ -30,6 +30,7 @@
 ## 🚀 Live Demo
 
 [Click here to view the live application](https://your-app-url.streamlit.app)
+[Click here to view the live application](https://placemate-pro.onrender.com)
 
 **Demo Credentials:**
 - Username: `sudarshan`
