@@ -1,0 +1,11 @@
+student_id,student_name,branch,cgpa,coding_skill,communication_skill,aptitude_skill,problem_solving,projects_count,internship_count,internship_type,certifications_count,certification_level,technical_skills,tools_known,email,phone,registration_date
+CS001,John Doe,Computer Science (CSE),8.5,8,7,8,7,3,1,MNC,2,Advanced,"Python, Java, SQL, Machine Learning","Git, VS Code, Docker","john.doe@example.com","9876543210",2024-01-15
+EC002,Jane Smith,Electronics (ECE),8.2,7,8,7,8,2,1,Startup,3,Intermediate,"Embedded C, VHDL, MATLAB","Arduino, Raspberry Pi, Keil","jane.smith@example.com","9876543211",2024-01-15
+ME003,Robert Johnson,Mechanical Engineering,7.5,4,6,7,6,1,0,None,1,Beginner,"AutoCAD, SolidWorks","ANSYS, CATIA","robert.j@example.com","9876543212",2024-01-16
+CV004,Emily Davis,Civil Engineering,7.8,3,7,6,7,2,1,PSU,1,Intermediate,"AutoCAD Civil, STAAD Pro","Revit, Primavera","emily.d@example.com","9876543213",2024-01-16
+EE005,Michael Brown,Electrical Engineering (EEE),7.2,5,6,7,6,1,0,None,2,Intermediate,"Power Systems, PLC","MATLAB, ETAP","michael.b@example.com","9876543214",2024-01-17
+CS006,Sarah Wilson,Computer Science (CSE),9.2,9,8,9,9,4,2,MNC,3,Expert,"Python, Java, C++, React, AWS","Docker, Kubernetes, Jenkins","sarah.w@example.com","9876543215",2024-01-18
+EC007,David Lee,Electronics (ECE),7.9,7,7,6,8,2,1,MNC,2,Advanced,"VLSI, FPGA, Verilog","Xilinx, Cadence","david.lee@example.com","9876543216",2024-01-18
+ME008,Lisa Anderson,Mechanical Engineering,7.6,4,8,7,7,2,1,Startup,2,Intermediate,"CATIA, ANSYS, CFD","SolidWorks, MATLAB","lisa.a@example.com","9876543217",2024-01-19
+CV009,James Taylor,Civil Engineering,6.8,3,6,6,6,1,0,None,1,Beginner,"AutoCAD, Construction Management","STAAD Pro, MS Project","james.t@example.com","9876543218",2024-01-19
+EE010,Maria Garcia,Electrical Engineering (EEE),8.0,6,7,8,7,2,1,PSU,2,Advanced,"Renewable Energy, Control Systems","LabVIEW, PSCAD","maria.g@example.com","9876543219",2024-01-20

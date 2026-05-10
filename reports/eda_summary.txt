@@ -1,0 +1,33 @@
+## Statistical Insights
+The average CGPA of students is 7.12, with most values ranging between 6.5 and 8.3, indicating moderate academic performance.
+
+Coding skill scores show higher variance compared to communication skills, suggesting uneven technical preparedness.
+
+The maximum number of internships completed by a student is 3, while most students have 0–1 internships.
+
+Group-wise Statistical Insights:
+Placed students have a higher average CGPA (7.8) compared to non-placed students (6.4).
+
+Coding skills and problem-solving scores are significantly higher among placed students.
+
+Internship count shows a positive relationship with placement probability
+
+Distribution-Based Statistical Insights:
+From histograms / boxplots:
+
+CGPA distribution is slightly right-skewed, indicating more students with mid-range performance.
+
+Coding skills contain outliers, representing a few highly skilled students.
+
+Communication skills show a near-normal distribution, suggesting consistent training levels.
+
+Correlation-Based Statistical Insights:
+After correlation heatmap:
+
+CGPA shows a strong positive correlation with placement status.
+
+Coding skill and problem-solving ability are highly correlated, indicating technical competency overlap.
+
+Certification count has a moderate impact on placement probability.
+
+Communication skills alone show weaker correlation, but improve results when combined with technical skills.
